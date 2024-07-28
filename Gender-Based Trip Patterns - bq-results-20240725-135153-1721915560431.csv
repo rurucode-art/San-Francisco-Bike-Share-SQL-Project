@@ -1,0 +1,384 @@
+Start_station_id,start_station_name,Male_Start_Trip,Female_Start_Trip,Male_End_Trip,Female_End_Trip
+2,San Jose Diridon Caltrain Station,0,0,0,0
+3,Powell St BART Station (Market St at 4th St),11024,3412,11024,3412
+3,San Jose Civic Center,0,0,0,0
+4,Cyril Magnin St at Ellis St,2426,537,2426,537
+4,Santa Clara at Almaden,0,0,0,0
+5,Adobe on Almaden,0,0,0,0
+5,Powell St BART Station (Market St at 5th St),9200,2736,9200,2736
+6,San Pedro Square,0,0,0,0
+6,The Embarcadero at Sansome St,12407,3603,12407,3603
+7,Frank H Ogawa Plaza,3212,1347,3212,1347
+7,Paseo de San Antonio,0,0,0,0
+8,San Salvador at 1st,0,0,0,0
+8,The Embarcadero at Vallejo St,2865,1791,2865,1791
+9,Broadway at Battery St,5040,939,5040,939
+9,Japantown,0,0,0,0
+10,San Jose City Hall,0,0,0,0
+10,Washington St at Kearny St,1885,687,1885,687
+11,Davis St at Jackson St,3808,1029,3808,1029
+11,MLK Library,0,0,0,0
+12,SJSU 4th at San Carlos,0,0,0,0
+13,Commercial St at Montgomery St,4035,1041,4035,1041
+13,St James Park,0,0,0,0
+14,Arena Green / SAP Center,0,0,0,0
+14,Clay St at Battery St,4800,1199,4800,1199
+15,San Francisco Ferry Building (Harry Bridges Plaza),14527,5029,14527,5029
+16,SJSU - San Salvador at 9th,0,0,0,0
+16,Steuart St at Market St,11587,3143,11587,3143
+17,Embarcadero BART Station (Beale St at Market St),9611,2398,9611,2398
+18,Telegraph Ave at Alcatraz Ave,725,300,725,300
+19,Post St at Kearny St,5674,1687,5674,1687
+20,Mechanics Monument Plaza (Market St at Bush St),5695,1409,5695,1409
+21,Franklin at Maple,0,0,0,0
+21,Montgomery St BART Station (Market St at 2nd St),14014,3001,14014,3001
+21,Sequoia Hospital,0,0,0,0
+22,Howard St at Beale St,12696,3446,12696,3446
+22,Redwood City Caltrain Station,0,0,0,0
+23,San Mateo County Center,0,0,0,0
+23,The Embarcadero at Steuart St,7471,1584,7471,1584
+24,Redwood City Public Library,0,0,0,0
+24,Spear St at Folsom St,6176,1278,6176,1278
+25,Broadway at Main,0,0,0,0
+25,Howard St at 2nd St,6937,1226,6937,1226
+25,Stanford in Redwood City,0,0,0,0
+26,1st St at Folsom St,2391,611,2391,611
+26,Kaiser Hospital,0,0,0,0
+26,Redwood City Medical Center,0,0,0,0
+27,Beale St at Harrison St,6056,2009,6056,2009
+27,Mountain View City Hall,0,0,0,0
+28,Mountain View Caltrain Station,0,0,0,0
+28,The Embarcadero at Bryant St,5349,1294,5349,1294
+29,O'Farrell St at Divisadero St,1245,597,1245,597
+29,San Antonio Caltrain Station,0,0,0,0
+30,Evelyn Park and Ride,0,0,0,0
+30,Middlefield Light Rail Station,0,0,0,0
+30,San Francisco Caltrain (Townsend St at 4th St),17144,3943,17144,3943
+31,Raymond Kimbell Playground,1640,739,1640,739
+31,San Antonio Shopping Center,0,0,0,0
+32,Castro Street and El Camino Real,0,0,0,0
+33,Charleston Park/ North Bayshore Area,0,0,0,0
+33,Golden Gate Ave at Hyde St,1919,361,1919,361
+33,Rengstorff Avenue / California Street,0,0,0,0
+34,Father Alfred E Boeddeker Park,1730,345,1730,345
+34,Palo Alto Caltrain Station,0,0,0,0
+35,Cahill Park,882,99,882,99
+35,University and Emerson,0,0,0,0
+36,California Ave Caltrain Station,0,0,0,0
+36,Folsom St at 3rd St,3630,986,3630,986
+37,2nd St at Folsom St,6799,1390,6799,1390
+37,Cowper at University,0,0,0,0
+38,Park at Olive,0,0,0,0
+39,Powell Street BART,0,0,0,0
+39,Scott St at Golden Gate Ave,1281,339,1281,339
+40,Laguna St at McAllister St,547,210,547,210
+41,Clay at Battery,0,0,0,0
+41,Golden Gate Ave at Polk St,4799,1492,4799,1492
+42,Davis at Jackson,0,0,0,0
+42,San Francisco City Hall (Polk St at Grove St),2733,1017,2733,1017
+43,San Francisco Public Library (Grove St at Hyde St),4502,1154,4502,1154
+44,Civic Center/UN Plaza BART Station (Market St at McAllister St),6242,1559,6242,1559
+45,5th St at Howard St,6153,1373,6153,1373
+45,Commercial at Montgomery,0,0,0,0
+46,San Antonio Park,308,144,308,144
+46,Washington at Kearney,0,0,0,0
+46,Washington at Kearny,0,0,0,0
+47,4th St at Harrison St,3663,1221,3663,1221
+47,Post at Kearney,0,0,0,0
+47,Post at Kearny,0,0,0,0
+48,2nd St at S Park St,4384,1026,4384,1026
+48,Embarcadero at Vallejo,0,0,0,0
+49,S Park St at 3rd St,4571,1315,4571,1315
+49,Spear at Folsom,0,0,0,0
+50,2nd St at Townsend St,643,183,643,183
+50,2nd St at Townsend St - Coming Soon,4953,1007,4953,1007
+50,Harry Bridges Plaza (Ferry Building),0,0,0,0
+51,Embarcadero at Folsom,0,0,0,0
+52,McAllister St at Baker St,1626,1073,1626,1073
+53,Grove St at Divisadero,2463,782,2463,782
+54,Embarcadero at Bryant,0,0,0,0
+55,Temporary Transbay Terminal (Howard at Beale),0,0,0,0
+55,Webster St at Grove St,1301,679,1301,679
+56,Beale at Market,0,0,0,0
+56,Koshland Park,2399,548,2399,548
+57,5th at Howard,0,0,0,0
+58,Market St at 10th St,15836,3440,15836,3440
+58,San Francisco City Hall,0,0,0,0
+59,Golden Gate at Polk,0,0,0,0
+59,S Van Ness Ave at Market St,6056,1208,6056,1208
+60,8th St at Ringold St,3735,940,3735,940
+60,Embarcadero at Sansome,0,0,0,0
+61,2nd at Townsend,0,0,0,0
+61,Howard St at 8th St,3794,891,3794,891
+62,2nd at Folsom,0,0,0,0
+62,Victoria Manalo Draves Park,2848,860,2848,860
+63,Bryant St at 6th St,1246,446,1246,446
+63,Howard at 2nd,0,0,0,0
+64,2nd at South Park,0,0,0,0
+64,5th St at Brannan St,2920,352,2920,352
+65,Townsend at 7th,0,0,0,0
+66,3rd St at Townsend St,8505,2061,8505,2061
+66,South Van Ness at Market,0,0,0,0
+67,Market at 10th,0,0,0,0
+67,San Francisco Caltrain Station 2  (Townsend St at 4th St),15617,3565,15617,3565
+68,Yerba Buena Center of the Arts (3rd @ Howard),0,0,0,0
+69,San Francisco Caltrain 2 (330 Townsend),0,0,0,0
+70,Central Ave at Fell St,3855,2042,3855,2042
+70,San Francisco Caltrain (Townsend at 4th),0,0,0,0
+71,Broderick St at Oak St,1632,637,1632,637
+71,Powell at Post (Union Square),0,0,0,0
+72,Civic Center BART (7th at Market),0,0,0,0
+72,Page St at Scott St,3294,1071,3294,1071
+73,Grant Avenue at Columbus Avenue,0,0,0,0
+73,Pierce St at Haight St,539,158,539,158
+74,Laguna St at Hayes St,3535,1133,3535,1133
+74,Steuart at Market,0,0,0,0
+75,Market St at Franklin St,3626,896,3626,896
+75,Mechanics Plaza (Market at Battery),0,0,0,0
+76,Market at 4th,0,0,0,0
+76,McCoppin St at Valencia St,3889,1155,3889,1155
+77,11th St at Natoma St,3103,597,3103,597
+77,Market at Sansome,0,0,0,0
+78,Folsom St at 9th St,2122,953,2122,953
+79,7th St at Brannan St,4320,968,4320,968
+80,San Jose Government Center,0,0,0,0
+80,Santa Clara County Civic Center,0,0,0,0
+80,Townsend St at 5th St,3376,763,3376,763
+81,Berry St at 4th St,14224,4307,14224,4307
+82,Broadway St at Battery St,0,0,0,0
+83,Mezes,0,0,0,0
+83,Mezes Park,0,0,0,0
+84,Duboce Park,2928,495,2928,495
+84,Ryland Park,0,0,0,0
+85,Church St at Duboce Ave,2723,823,2723,823
+86,Market St at Dolores St,3954,880,3954,880
+88,11th St at Bryant St,3111,527,3111,527
+88,5th S at E. San Salvador St,0,0,0,0
+88,5th St at E. San Salvador St,0,0,0,0
+89,Division St at Potrero Ave,3513,748,3513,748
+89,S. Market St at Park Ave,0,0,0,0
+90,5th St at Folsom St,0,0,0,0
+90,Townsend St at 7th St,8399,2353,8399,2353
+91,Cyril Magnin St at Ellis St,0,0,0,0
+93,4th St at Mission Bay Blvd S,5431,1952,5431,1952
+95,Sanchez St at 15th St,2224,646,2224,646
+96,Dolores St at 15th St,3238,739,3238,739
+97,14th St at Mission St,2975,741,2975,741
+98,Valencia St at 16th St,4762,1222,4762,1222
+99,Folsom St at 15th St,2273,583,2273,583
+100,Bryant St at 15th St,2065,612,2065,612
+101,San Bruno Ave at 16th St,1372,226,1372,226
+102,Irwin St at 8th St,948,703,948,703
+105,16th St at Prosper St,1836,424,1836,424
+106,Sanchez St at 17th St,1343,382,1343,382
+107,17th St at Dolores St,1769,592,1769,592
+108,16th St Mission BART,1685,485,1685,485
+109,17th St at Valencia St,3634,950,3634,950
+110,17th & Folsom Street Park (17th St at Folsom St),1217,556,1217,556
+112,Harrison St at 17th St,2626,1040,2626,1040
+113,Franklin Square,1598,480,1598,480
+114,Rhode Island St at 17th St,3631,1175,3631,1175
+115,Jackson Playground,2127,685,2127,685
+116,Mississippi St at 17th St,2442,1009,2442,1009
+118,Eureka Valley Recreation Center,933,252,933,252
+119,18th St at Noe St,2510,614,2510,614
+120,Mission Dolores Park,2456,865,2456,865
+121,Mission Playground,3346,966,3346,966
+122,19th St at Mission St,1903,538,1903,538
+123,Folsom St at 19th St,2141,761,2141,761
+124,19th St at Florida St,2079,523,2079,523
+125,20th St at Bryant St,2119,726,2119,726
+126,Esprit Park,3505,1226,3505,1226
+127,Valencia St at 21st St,2795,963,2795,963
+129,Harrison St at 20th St,2620,844,2620,844
+130,22nd St Caltrain Station,2300,547,2300,547
+131,Dolores St at 22nd St,31,3,31,3
+132,24th St at Chattanooga St,1886,478,1886,478
+133,Valencia St at 22nd St,2579,855,2579,855
+134,Valencia St at 24th St,4609,2180,4609,2180
+137,Jersey St at Castro St,1875,660,1875,660
+138,Jersey St at Church St,848,473,848,473
+139,Garfield Square (25th St at Harrison St),1325,657,1325,657
+140,Cesar Chavez St at Dolores St,421,344,421,344
+141,Valencia St at Cesar Chavez St,2183,857,2183,857
+144,Precita Park,1629,859,1629,859
+145,29th St at Church St,1755,663,1755,663
+146,30th St at San Jose Ave,881,232,881,232
+147,29th St at Tiffany Ave,1862,718,1862,718
+148,Horton St at 40th St,697,307,697,307
+149,Emeryville Town Hall,561,206,561,206
+150,Adeline St at 40th St,626,253,626,253
+151,53rd St at Hollis St,212,28,212,28
+152,47th St at San Pablo Ave,407,91,407,91
+153,59th St at Horton St,504,103,504,103
+154,Doyle St at 59th St,245,273,245,273
+155,Emeryville Public Market,115,37,115,37
+156,Stanford Ave at Hollis St,254,120,254,120
+157,65th St at Hollis St,733,278,733,278
+158,Shattuck Ave at Telegraph Ave,1249,259,1249,259
+159,24th St at Market St,613,333,613,333
+160,West Oakland BART Station,2166,1024,2166,1024
+162,Franklin St at 9th St,1374,674,1374,674
+163,Lake Merritt BART Station,3354,1826,3354,1826
+164,Isabella St at San Pablo Ave,505,72,505,72
+166,College Ave at Alcatraz Ave,342,206,342,206
+167,College Ave at Harwood Ave,774,406,774,406
+168,Alcatraz Ave at Shattuck Ave,45,21,45,21
+169,Bushrod Park,341,172,341,172
+170,Telegraph Ave at 58th St,320,114,320,114
+171,Rockridge BART Station,1040,435,1040,435
+172,College Ave at Taft Ave,996,328,996,328
+173,Shattuck Ave at 55th Ave,763,215,763,215
+174,Shattuck Ave at 51st St,414,120,414,120
+175,49th St at Telegraph Ave,1420,450,1420,450
+176,MacArthur BART Station,5682,1996,5682,1996
+177,MacArthur Blvd at Telegraph Ave,653,176,653,176
+178,Broadway at 30th St,1301,673,1301,673
+179,Telegraph Ave at 27th St,1495,375,1495,375
+180,Telegraph Ave at 23rd St,2155,619,2155,619
+181,Grand Ave at Webster St,2955,1460,2955,1460
+182,19th Street BART Station,6940,2622,6940,2622
+183,Telegraph Ave at 19th St,2133,964,2133,964
+184,Franklin St at 14th St,624,187,624,187
+185,Jackson St at 14th St,554,153,554,153
+186,Lakeside Dr at 14th St,1776,951,1776,951
+187,Jack London Square,145,89,145,89
+188,Dover St at 57th St,653,435,653,435
+189,Genoa St at 55th St,1197,695,1197,695
+190,West St at 40th St,486,188,486,188
+191,Market St at 40th St,240,261,240,261
+192,37th St at West St,473,60,473,60
+193,Grand Ave at Santa Clara Ave,1467,565,1467,565
+194,Lakeshore Ave at Trestle Glen Rd,1395,643,1395,643
+195,Bay Pl at Vernon St,3461,1557,3461,1557
+196,Grand Ave at Perkins St,3314,1552,3314,1552
+197,El Embarcadero at Grand Ave,3050,1660,3050,1660
+198,Snow Park,1200,453,1200,453
+199,Webster St at 17th St,328,128,328,128
+200,2nd Ave at E 18th St,2900,1728,2900,1728
+201,10th St at Fallon St,1360,750,1360,750
+202,Washington St at 8th St,756,556,756,556
+203,Webster St at 2nd St,263,125,263,125
+204,55th St at Telegraph Ave,666,100,666,100
+205,Shafter Ave at Cavour St,433,237,433,237
+206,College Ave at Bryant Ave,134,115,134,115
+207,Broadway at Coronado Ave,470,200,470,200
+208,S. 4th St at San Carlos St,1006,213,1006,213
+209,45th St at MLK Jr Way,218,210,218,210
+210,45th St at Manila,1174,514,1174,514
+211,Broadway at 40th St,1811,884,1811,884
+212,Mosswood Park,1373,560,1373,560
+213,32nd St at Adeline St,502,240,502,240
+214,Market St at Brockhurst St,876,96,876,96
+215,34th St at Telegraph Ave,346,280,346,280
+216,San Pablo Ave at 27th St,163,56,163,56
+217,27th St at MLK Jr Way,38,21,38,21
+218,DeFremery Park,571,347,571,347
+219,Marston Campbell Park,198,60,198,60
+220,San Pablo Ave at MLK Jr Way,551,108,551,108
+221,12th St at 6th Ave,293,74,293,74
+222,10th Ave at E 15th St,236,55,236,55
+223,16th St Mission BART Station 2,2564,715,2564,715
+224,21st Ave at International Blvd,31,29,31,29
+225,23rd Ave at Foothill Blvd,46,25,46,25
+226,26th Ave at International Blvd,51,20,51,20
+227,Foothill Blvd at Fruitvale Ave,326,81,326,81
+228,Foothill Blvd at Harrington Ave,23,44,23,44
+229,Foothill Blvd at 42nd Ave,28,27,28,27
+230,14th St at Mandela Pkwy,894,379,894,379
+231,14th St at Filbert St,105,155,105,155
+232,MLK Jr Way at 14th St,636,95,636,95
+233,12th St at 4th Ave,980,360,980,360
+234,Fruitvale Ave at International Blvd,78,20,78,20
+235,Union St at 10th St,415,91,415,91
+236,Market St at 8th St,182,54,182,54
+237,Fruitvale BART Station,171,67,171,67
+238,MLK Jr Way at University Ave,697,210,697,210
+239,Bancroft Way at Telegraph Ave,2678,811,2678,811
+240,Haste St at Telegraph Ave,1817,691,1817,691
+241,Ashby BART Station,2199,628,2199,628
+242,Milvia St at Derby St,83,22,83,22
+243,Bancroft Way at College Ave,4497,1715,4497,1715
+244,Shattuck Ave at Hearst Ave,740,284,740,284
+245,Downtown Berkeley BART,2153,665,2153,665
+246,Berkeley Civic Center,916,464,916,464
+247,Fulton St at Bancroft Way,828,469,828,469
+248,Telegraph Ave at Ashby Ave,1328,667,1328,667
+249,Russell St at College Ave,709,334,709,334
+250,North Berkeley BART Station,550,186,550,186
+251,California St at University Ave,344,80,344,80
+252,Channing Way at Shattuck Ave,142,62,142,62
+254,Vine St at Shattuck Ave,525,193,525,193
+255,Virginia St at Shattuck Ave,68,23,68,23
+256,Hearst Ave at Euclid Ave,539,183,539,183
+258,University Ave at Oxford St,493,132,493,132
+259,Addison St at Fourth St,452,223,452,223
+263,Channing Way at San Pablo Ave,144,121,144,121
+265,Ninth St at Parker St,193,55,193,55
+266,Parker St at Fulton St,1112,538,1112,538
+267,Derby St at College Ave,715,179,715,179
+268,Ellsworth St at Russell St,193,86,193,86
+269,Telegraph Ave at Carleton St,361,175,361,175
+270,Ninth St at Heinz Ave,373,120,373,120
+271,San Pablo Park,18,10,18,10
+272,Woolsey St at Sacramento St,200,123,200,123
+273,Fulton St at Ashby Ave,86,29,86,29
+274,Oregon St at Adeline St,722,258,722,258
+275,Julian St at 6th St,471,66,471,66
+276,Julian St at The Alameda,1094,237,1094,237
+277,Morrison Ave at Julian St,613,41,613,41
+278,The Alameda at Bush St,815,201,815,201
+279,Santa Clara St at 7th St,575,105,575,105
+280,San Fernando at 7th St,1668,696,1668,696
+281,9th St at San Fernando,506,218,506,218
+282,Market St at Park St,388,89,388,89
+283,Delmas Ave and San Fernando St,185,15,185,15
+284,Yerba Buena Center for the Arts (Howard St at 3rd St),3424,878,3424,878
+285,Webster St at O'Farrell St,2127,732,2127,732
+286,San Carlos St at 11th St,367,270,367,270
+287,Almaden Blvd at Balbach St,211,55,211,55
+288,Mission St at 1st St,219,8,219,8
+289,5th St at Taylor St,202,21,202,21
+290,George St at 1st St,219,10,219,10
+291,Autumn Parkway at Coleman Ave,357,146,357,146
+292,Empire St at 1st St,87,4,87,4
+293,W St John St at Guadalupe River Trail,117,12,117,12
+294,Pierce Ave at Market St,370,58,370,58
+295,William St at 10th St,466,64,466,64
+296,5th St at Virginia St,1502,861,1502,861
+297,Locust St at Grant St,23,246,23,246
+298,Oak St at 1st St,13,12,13,12
+299,Bestor Art Park,36,30,36,30
+300,Palm St at Willow St,12,10,12,10
+301,Willow St at Vine St,20,14,20,14
+302,Tamien Station,18,5,18,5
+303,San Pedro St at Hedding St,33,2,33,2
+304,Jackson St at 5th St,536,238,536,238
+305,Ryland Park,2073,158,2073,158
+306,Saint James Park,262,111,262,111
+307,SAP Center,334,108,334,108
+308,San Pedro Square,578,507,578,507
+309,San Jose City Hall,1233,314,1233,314
+310,San Fernando St at 4th St,2246,432,2246,432
+311,Paseo De San Antonio at 2nd St,1201,411,1201,411
+312,San Jose Diridon Station,2652,1118,2652,1118
+313,Almaden Blvd at San Fernando St,573,80,573,80
+314,Santa Clara St at Almaden Blvd,911,226,911,226
+315,Market St at 45th St,75,14,75,14
+316,San Salvador St at 1st St,646,245,646,245
+317,San Salvador St at 9th St,1289,289,1289,289
+318,San Carlos St at Market St,298,65,298,65
+321,5th at Folsom,3306,1284,3306,1284
+323,Broadway at Kearny,4642,969,4642,969
+324,Union Square (Powell St at Post St),5133,1954,5133,1954
+327,5th St at San Salvador St,538,163,538,163
+336,Potrero Ave and Mariposa St,362,89,362,89
+337,Webster St at 19th St,468,156,468,156
+338,13th St at Franklin St,483,178,483,178
+339,Jackson St at 11th St,232,160,232,160
+340,Harmon St at Adeline St,82,50,82,50
+341,Fountain Alley at S 2nd St,427,103,427,103
+342,Colin P Kelly Jr St at Townsend St (Temporary Site),1990,528,1990,528
+343,Bryant St at 2nd St,827,289,827,289
+344,16th St Depot,26,3,26,3
+345,Hubbell St at 16th St,65,21,65,21

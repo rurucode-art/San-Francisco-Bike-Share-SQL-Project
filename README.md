@@ -2,7 +2,7 @@
 
 ## Project Objective
 
-The primary objective of this project was to analyze the San Francisco Bikeshare data available in the BigQuery public dataset. By leveraging SQL queries, we aimed to gain insights into the usage patterns, station distribution, and demographic trends within the bikeshare system. The analysis helps understand key aspects such as the distribution of stations across different regions, the frequency of trips based on subscriber type, and gender-based trip patterns.
+The primary objective of this project was to analyze the San Francisco Bikeshare data available in the BigQuery public dataset. By leveraging SQL queries, I aimed to gain insights into the usage patterns, station distribution, and demographic trends within the bikeshare system. The analysis helps understand key aspects such as the distribution of stations across different regions, the frequency of trips based on subscriber type, and gender-based trip patterns.
 
 ## Data Source
 The data for this project was sourced from the BigQuery public dataset, specifically the bigquery-public-data.san_francisco_bikeshare dataset. This dataset includes detailed information about bikeshare stations, trips, and regions within the San Francisco area.
